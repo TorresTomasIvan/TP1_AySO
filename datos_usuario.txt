@@ -1,1 +1,2 @@
 “Usuario=ubuntu”
+CPU implementer	: 0x61
